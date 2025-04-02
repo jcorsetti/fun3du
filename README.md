@@ -1,10 +1,7 @@
-# Fun3DU : Functional Understanding and Segmentation in 3D Scenes
-Official implementation and [website](https://jcorsetti.github.io/fun3du/) of Fun3DU, a novel method for functional understanding and segmentation in 3D scenes.
-The technical report is available [on arxiv](https://arxiv.org/abs/2411.16310).
-Code will be released in the following months.
+# Fun3DU code [here](https://github.com/tev-fbk/fun3du)
 
-## News
-- 27/02/25: Fun3DU has been accepted at CVPR25!
+# Fun3DU : Functional Understanding and Segmentation in 3D Scenes
+This repository only contains the code for the website of Fun3DU. Please refer to [this repository](https://github.com/tev-fbk/fun3du) for the implementation and other updates.
 
 ## Citing Fun3DU
 
